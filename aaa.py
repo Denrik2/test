@@ -10,5 +10,10 @@ def house():
     print(f'Цвет моего дома {color}, а площадь {s}.')
 
 
+def notebook():
+    cover = 'colored'
+
+
+
 house()
 hello()
