@@ -15,8 +15,14 @@ def notebook():
     number_of_pages = 24
 
 
+def car():
+    speed = 228
+    color = 'red'
+
+
 c = 247
 name = 'Ибрагим'
+
 
 house()
 hello()
