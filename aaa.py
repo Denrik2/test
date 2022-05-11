@@ -12,7 +12,7 @@ def house():
 
 def notebook():
     cover = 'colored'
-
+    number_of_pages = 24
 
 
 house()
