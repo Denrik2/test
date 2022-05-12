@@ -15,6 +15,7 @@ def notebook():
     number_of_pages = 24
 
 
+# очередной пример
 a = 209
 print(f'мне {a} лет')
 
