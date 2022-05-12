@@ -18,6 +18,7 @@ def notebook():
 # очередной пример
 a = 209
 print(f'мне {a} лет')
+# ny u posledniy coment
 
 house()
 hello()
