@@ -5,7 +5,7 @@ def hello():
 
 
 def house():
-    color = 'blue'
+    color = 'синий'
     s = 120
     print(f'Цвет моего дома {color}, а площадь {s}.')
 
