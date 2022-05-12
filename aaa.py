@@ -1,5 +1,5 @@
 def hello():
-    name = 'Denrik'
+    name = 'Это 2-я ветка'
     name += ' Кеков'
     print(f'Hello! {name}')
 
